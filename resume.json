@@ -1,0 +1,222 @@
+{
+  "basics": {
+    "name": "Steffen Weidenhaus",
+    "label": "Senior Software Engineer",
+    "image": "",
+    "email": "steffen@weidenhaus.com",
+    "phone": "+61484287776",
+    "url": "https://weidenhaus.com",
+    "summary": "Highly motivated senior software engineer with proven expertise in intelligence systems, cybersecurity, and AI/ML technologies, seeking to contribute technical excellence to Australia's public sector. Demonstrated track record delivering mission-critical applications for intelligence operations, large-scale security systems protecting millions of users, and advanced geospatial analysis tools supporting strategic decision-making. Combines deep technical leadership experience from multinational enterprise environments with direct intelligence sector collaboration, offering unique capability to architect and deliver sophisticated systems that enhance operational effectiveness and situational awareness in high-stakes defence environments.",
+    "location": {
+      "address": "",
+      "postalCode": "2602",
+      "city": "Canberra",
+      "countryCode": "AU",
+      "region": "ACT"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "weidenhaus",
+        "url": "https://www.linkedin.com/in/weidenhaus/"
+      },
+      {
+        "network": "GitHub",
+        "username": "weidenhaus",
+        "url": "https://github.com/weidenhaus"
+      },
+      {
+        "network": "Twitter",
+        "username": "weidenhaus",
+        "url": "https://twitter.com/weidenhaus"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Rhize Manufacturing Data Hub",
+      "position": "Senior Software Engineer",
+      "url": "",
+      "startDate": "2025-05-01",
+      "endDate": "",
+      "summary": "High-Performance Manufacturing Intelligence Systems Develop mission-critical web applications using React and TypeScript with Tailwind CSS, delivering robust and responsive interfaces that integrate seamlessly with high-performance GraphQL backend APIs built in Go.",
+      "highlights": [
+        "Engineer scalable solutions for complex manufacturing data environments",
+        "Architect and implement sophisticated data pipeline solutions enabling secure processing of sensitive manufacturing datasets",
+        "Deploy systematic quality assurance protocols achieving optimal code coverage"
+      ]
+    },
+    {
+      "name": "Australian Research Data Commons (ARDC)",
+      "position": "Senior Software Engineer",
+      "url": "",
+      "startDate": "2023-07-01",
+      "endDate": "2025-04-01",
+      "summary": "Led front-end development for a critical research activity platform serving Australia's national research infrastructure, implementing robust identity and access management systems using Keycloak integration.",
+      "highlights": [
+        "Architected secure authentication workflows incorporating ORCID, Australian Access Federation, and Google OAuth 2",
+        "Delivered comprehensive full-stack solution utilising React, Material UI, and Java Spring Boot with PostgreSQL",
+        "Built scalable cloud infrastructure supporting national research coordination efforts"
+      ]
+    },
+    {
+      "name": "Linktree",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2022-12-01",
+      "summary": "Led critical user experience initiatives for a platform serving over 50 million users, developing scalable and reusable UI components that enhanced system reliability and user engagement.",
+      "highlights": [
+        "Engineered comprehensive cybersecurity automation systems to proactively identify vulnerabilities",
+        "Developed sophisticated scripts for automated detection of AWS configuration security issues",
+        "Delivered measurable improvements in system security through automated processes"
+      ]
+    },
+    {
+      "name": "Weidenhaus Consulting",
+      "position": "Software Engineering Consultant",
+      "url": "",
+      "startDate": "2019-06-01",
+      "endDate": "2021-11-01",
+      "summary": "Delivered high-impact software engineering solutions for multinational corporations including eBay and SAP, developing sophisticated web applications and system integrations.",
+      "highlights": [
+        "Successfully managed multiple concurrent client engagements",
+        "Maintained rigorous quality standards and stakeholder coordination requirements"
+      ]
+    },
+    {
+      "name": "Arup Australia Service",
+      "position": "Senior Specialist",
+      "url": "",
+      "startDate": "2019-03-01",
+      "endDate": "2019-05-01",
+      "summary": "Architected and delivered multiple AWS-hosted backend applications with integrated database solutions, providing robust and scalable APIs that support mission-critical infrastructure operations.",
+      "highlights": [
+        "Developed sophisticated mapping tools and spatial analysis capabilities",
+        "Built comprehensive geospatial analysis workflows"
+      ]
+    },
+    {
+      "name": "SAP SE",
+      "position": "Staff Software Engineer",
+      "url": "",
+      "startDate": "2012-01-01",
+      "endDate": "2018-06-01",
+      "summary": "Led development of company-wide reporting infrastructure integrating multiple disparate systems, managing platforms processing millions of data records with high operational availability requirements.",
+      "highlights": [
+        "Directed two scrum development teams",
+        "Developed comprehensive market penetration analysis application",
+        "Architected 360-degree customer intelligence dashboard integrating hundreds of strategic data points"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Humanitarian Assistance & Disaster Relief Institute (HADRI)",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-01",
+      "summary": "Partnered with intelligence sector professionals to architect and deliver a critical map-centric application supporting Humanitarian Assistance and Disaster Relief operations.",
+      "highlights": [
+        "Built scalable AWS cloud infrastructure utilising DynamoDB, CloudFormation, and Lambda functions",
+        "Engineered sophisticated large language model integration to process and analyse intelligence from diverse sources"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ruprecht Karl University of Heidelberg",
+      "url": "",
+      "area": "East Asian Studies & Economics",
+      "studyType": "Bachelor of Arts",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Core Programming and Development",
+      "level": "Expert",
+      "keywords": [
+        "Go",
+        "Java",
+        "JavaScript",
+        "Node.js",
+        "Python",
+        "TypeScript",
+        "Angular",
+        "React.js",
+        "Next.js",
+        "Vue.js",
+        "AWS",
+        "GCP",
+        "DynamoDB",
+        "GraphQL",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "REST APIs"
+      ]
+    },
+    {
+      "name": "Intelligence and Security Technologies",
+      "level": "Expert",
+      "keywords": [
+        "Generative AI integration",
+        "Computer vision systems",
+        "Multi-source data fusion",
+        "LLM API integration",
+        "Geospatial Intelligence",
+        "Cybersecurity",
+        "OAuth 2.0",
+        "Identity Management"
+      ]
+    },
+    {
+      "name": "Advanced Analytics and Data Processing",
+      "level": "Expert",
+      "keywords": [
+        "Multi-source intelligence aggregation",
+        "Real-time data fusion",
+        "Edge Computing",
+        "Nvidia hardware optimisation",
+        "Event-driven serverless functions",
+        "Data visualisation"
+      ]
+    },
+    {
+      "name": "Enterprise and Operational Systems",
+      "level": "Expert",
+      "keywords": [
+        "System Integration",
+        "Legacy system modernisation",
+        "High-availability architecture",
+        "Agile development",
+        "Cross-functional stakeholder management"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "Intermediate (written and spoken)"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
