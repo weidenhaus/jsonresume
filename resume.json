@@ -36,7 +36,7 @@
     {
       "name": "Rhize Manufacturing Data Hub",
       "position": "Senior Software Engineer",
-      "url": "",
+      "url": "https://rhize.com/",
       "startDate": "2025-05-01",
       "endDate": "",
       "summary": "High-Performance Manufacturing Intelligence Systems Develop mission-critical web applications using React and TypeScript with Tailwind CSS, delivering robust and responsive interfaces that integrate seamlessly with high-performance GraphQL backend APIs built in Go.",
@@ -49,7 +49,7 @@
     {
       "name": "Australian Research Data Commons (ARDC)",
       "position": "Senior Software Engineer",
-      "url": "",
+      "url": "https://ardc.edu.au/",
       "startDate": "2023-07-01",
       "endDate": "2025-04-01",
       "summary": "Led front-end development for a critical research activity platform serving Australia's national research infrastructure, implementing robust identity and access management systems using Keycloak integration.",
@@ -62,7 +62,7 @@
     {
       "name": "Linktree",
       "position": "Software Engineer",
-      "url": "",
+      "url": "https://linktr.ee/",
       "startDate": "2022-01-01",
       "endDate": "2022-12-01",
       "summary": "Led critical user experience initiatives for a platform serving over 50 million users, developing scalable and reusable UI components that enhanced system reliability and user engagement.",
@@ -75,7 +75,7 @@
     {
       "name": "Weidenhaus Consulting",
       "position": "Software Engineering Consultant",
-      "url": "",
+      "url": "https://www.weidenhaus.com/",
       "startDate": "2019-06-01",
       "endDate": "2021-11-01",
       "summary": "Delivered high-impact software engineering solutions for multinational corporations including eBay and SAP, developing sophisticated web applications and system integrations.",
@@ -87,7 +87,7 @@
     {
       "name": "Arup Australia Service",
       "position": "Senior Specialist",
-      "url": "",
+      "url": "https://www.arup.com/",
       "startDate": "2019-03-01",
       "endDate": "2019-05-01",
       "summary": "Architected and delivered multiple AWS-hosted backend applications with integrated database solutions, providing robust and scalable APIs that support mission-critical infrastructure operations.",
@@ -99,7 +99,7 @@
     {
       "name": "SAP SE",
       "position": "Staff Software Engineer",
-      "url": "",
+      "url": "https://www.sap.com/",
       "startDate": "2012-01-01",
       "endDate": "2018-06-01",
       "summary": "Led development of company-wide reporting infrastructure integrating multiple disparate systems, managing platforms processing millions of data records with high operational availability requirements.",
@@ -114,7 +114,7 @@
     {
       "organization": "Humanitarian Assistance & Disaster Relief Institute (HADRI)",
       "position": "Software Engineer",
-      "url": "",
+      "url": "https://www.hadrinstitute.org/",
       "startDate": "2023-01-01",
       "endDate": "2023-12-01",
       "summary": "Partnered with intelligence sector professionals to architect and deliver a critical map-centric application supporting Humanitarian Assistance and Disaster Relief operations.",
@@ -127,7 +127,7 @@
   "education": [
     {
       "institution": "Ruprecht Karl University of Heidelberg",
-      "url": "",
+      "url": "https://www.uni-heidelberg.de",
       "area": "East Asian Studies & Economics",
       "studyType": "Bachelor of Arts",
       "startDate": "",
